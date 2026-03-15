@@ -1,5 +1,5 @@
 function generate() {
-    let dictionary = "";
+    let dictionary = ""; 
     if (document.getElementById("lowercaseCb").checked) {
         dictionary += "qwertyuiopasdfghjklzxcvbnm";
     }
